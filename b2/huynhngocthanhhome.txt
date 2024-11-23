@@ -1,0 +1,96 @@
+{
+  "osType": "Linux",
+  "platform": "linux",
+  "ram": 10298605568,
+  "usedRam": 2268008448,
+  "CPU": [
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 3425,
+      "times": {
+        "user": 1089740,
+        "nice": 2650,
+        "sys": 624630,
+        "idle": 15249500,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 3440,
+      "times": {
+        "user": 1102220,
+        "nice": 2050,
+        "sys": 561230,
+        "idle": 15641020,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 1530,
+      "times": {
+        "user": 1159450,
+        "nice": 3400,
+        "sys": 640760,
+        "idle": 15366860,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 2300,
+      "times": {
+        "user": 1113900,
+        "nice": 3210,
+        "sys": 557130,
+        "idle": 15653780,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 1530,
+      "times": {
+        "user": 1212300,
+        "nice": 2180,
+        "sys": 659230,
+        "idle": 15307760,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 1529,
+      "times": {
+        "user": 1181370,
+        "nice": 1950,
+        "sys": 564920,
+        "idle": 15579610,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 1529,
+      "times": {
+        "user": 1227020,
+        "nice": 2110,
+        "sys": 649080,
+        "idle": 15345300,
+        "irq": 0
+      }
+    },
+    {
+      "model": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+      "speed": 1530,
+      "times": {
+        "user": 1162370,
+        "nice": 2510,
+        "sys": 599240,
+        "idle": 15568270,
+        "irq": 0
+      }
+    }
+  ]
+}
